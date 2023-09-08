@@ -1,5 +1,5 @@
 <h1 align="center">Glad to see ya <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>, I'm Sinkler521</h1>
-<h3 align="center">[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=A+Web+developer+from+Ukraine)](https://git.io/typing-svg)</h3>
+<h3 align="center">A Web developer from Ukraine</h3>
 
 <img align="right" src="https://img.freepik.com/premium-vector/coder-developer-concentrated-at-working-project-developing-programming-and-coding-technologies_569013-336.jpg?w=740" alt="*image*" width="200">
 <a href="https://stackoverflow.com/users/19104724" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19104724" height="30" width="40" /></a>
