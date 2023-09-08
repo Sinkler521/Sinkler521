@@ -1,7 +1,7 @@
 ### Hi there 👋
 <h1 align="center">Hi 👋, I'm Sinkler521</h1>
 <h3 align="center">A web developer from Ukraine</h3>
-<img align="right" src="https://wallpapers.com/images/featured-full/coder-s2otw9sho5jfkv7u.jpg" alt="*image*" width="400">
+<img align="center" src="https://wallpapers.com/images/featured-full/coder-s2otw9sho5jfkv7u.jpg" alt="*image*" width="500">
 <a href="https://stackoverflow.com/users/19104724" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19104724" height="30" width="40" /></a>
 <a href="https://discord.gg/sinkler3483" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="sinkler3483" height="30" width="40" /></a>
 </p>
