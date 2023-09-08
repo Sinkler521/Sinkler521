@@ -1,6 +1,6 @@
 <h1 align="center">Glad to see ya 👋, I'm Sinkler521</h1>
 <h3 align="center">A web developer from Ukraine</h3>
-<img align="right" src="[https://wallpapers.com/images/featured-full/coder-s2otw9sho5jfkv7u.jpg](https://img.freepik.com/premium-vector/coder-developer-concentrated-at-working-project-developing-programming-and-coding-technologies_569013-336.jpg?w=740)" alt="*image*" width="350">
+<img align="right" src="https://img.freepik.com/premium-vector/coder-developer-concentrated-at-working-project-developing-programming-and-coding-technologies_569013-336.jpg?w=740" alt="*image*" width="300">
 <a href="https://stackoverflow.com/users/19104724" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19104724" height="30" width="40" /></a>
 <a href="https://discord.gg/sinkler3483" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="sinkler3483" height="30" width="40" /></a>
 </p>
