@@ -1,5 +1,4 @@
-### Hi there 👋
-<h1 align="center">Hi 👋, I'm Sinkler521</h1>
+<h1 align="center">Glad to see ya 👋, I'm Sinkler521</h1>
 <h3 align="center">A web developer from Ukraine</h3>
 <img align="right" src="https://wallpapers.com/images/featured-full/coder-s2otw9sho5jfkv7u.jpg" alt="*image*" width="350">
 <a href="https://stackoverflow.com/users/19104724" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19104724" height="30" width="40" /></a>
